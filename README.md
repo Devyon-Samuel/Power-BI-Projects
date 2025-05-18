@@ -10,3 +10,7 @@
 
 ![image](https://github.com/user-attachments/assets/770f7f04-9ec5-4531-9e6f-fd7f4e273d49)
 *As it is one of my first times playing around with the PowerBI visualisation interface i was able to conjure a couple visual insights. In this dashboard is displays the correlation of the amount of warehouse sales to the retail sales, which were matched strongly throughout the years*
+
+![image](https://github.com/user-attachments/assets/154bf814-7da0-400d-bbd5-2836633a9b5d)
+*In this dashboard i was able to find the order from which items were sold the most to the least via a bar chart, the most being "Titos Vodka", and the least being "Keermont Red Wine"*
+
